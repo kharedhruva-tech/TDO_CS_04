@@ -57,7 +57,7 @@ A remote, unauthenticated attacker capable of sending (or spoofing/intercepting)
 
 ## 📄 Full Report
 
-See [(file:///C:/Users/Dhruva/Downloads/CVE-2013-2220_Report.pdf)] for the complete formatted write-up.
+See [(https://1drv.ms/w/c/A064A3870EE92A42/IQBlu1Ork8AnTKoHAhPvoPndAQMf-6OLpYYMVul5wrGHWJg?e=NQdEgR)] for the complete formatted write-up.
 
 ---
 
